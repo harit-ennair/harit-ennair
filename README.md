@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**harit-ennair/harit-ennair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harit 👋
 
-Here are some ideas to get you started:
+### Developer · Curious mind · Lifelong learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building, learning, and turning ideas into code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-harit--ennair-181717?style=for-the-badge&logo=github)](https://github.com/harit-ennair)
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+I enjoy exploring new technologies and improving my skills through hands-on projects. This profile is where I share my experiments, practice, and progress.
+
+### 🛠️ Technologies I've explored
+
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=1572B6)
+![C](https://img.shields.io/badge/C-222222?style=flat-square&logo=c)
+
+### 🚀 Explore my work
+
+- [**YouCode A1**](https://github.com/harit-ennair/youcode-A1) — a collection of project work.
+- [**Projet SAS**](https://github.com/harit-ennair/projet_SAS) — a project in C.
+- [**All repositories →**](https://github.com/harit-ennair?tab=repositories)
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by ✨</sub>
+</div>
