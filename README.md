@@ -1,7 +1,9 @@
 <div align="center">
-
+  
 # Harit Ennair
 ### Full-Stack Web Developer
+
+![Animated text: Java, Spring Boot, Angular and Laravel](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36B8D6&center=true&vCenter=true&width=560&height=50&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Angular;Laravel+%7C+React+%7C+REST+APIs)
 
 **Thoughtful code. Meaningful experiences.**
 
